@@ -1,0 +1,173 @@
+17:26:19 INFO  LibraryIdentifier         : Process app: baidu107.apk
+17:26:19 INFO  LibraryIdentifier         : = Manifest Parser =
+17:26:19 INFO  LibraryIdentifier         :     Package name: com.sharefaith.sfchurchapp_2051ab6169696d6c
+17:26:19 INFO  LibraryIdentifier         :     Version code: 70
+17:26:19 INFO  LibraryIdentifier         :     minSdkVersion: 14
+17:26:19 INFO  LibraryIdentifier         :     SharedUserId:  - none -
+17:26:19 INFO  LibraryIdentifier         :     Library dependencies:  - none -
+17:26:19 INFO  LibraryIdentifier         : 
+17:26:19 INFO  LibraryIdentifier         :     Loaded 8 unique libraries with 16 library profiles (in 119 ms)
+17:26:19 INFO  LibraryIdentifier         : 
+17:26:20 INFO  LibraryIdentifier         : generated class hierarchy (in 592 ms)
+17:26:20 INFO  LibraryProfiler           : 
+17:26:20 INFO  LibraryProfiler           : = ClassHierarchy Stats =
+17:26:20 INFO  LibraryProfiler           :     # of classes: 2638
+17:26:20 INFO  LibraryProfiler           :     # thereof inner classes: 1362
+17:26:20 INFO  LibraryProfiler           :     # thereof public classes: 1277
+17:26:20 INFO  LibraryProfiler           :         Activity : 16
+17:26:20 INFO  LibraryProfiler           :         Application : 1
+17:26:20 INFO  LibraryProfiler           :         AsyncTask : 11
+17:26:20 INFO  LibraryProfiler           :         BroadcastReceiver : 16
+17:26:20 INFO  LibraryProfiler           :         ContentProvider : 3
+17:26:20 INFO  LibraryProfiler           :         Fragment : 7
+17:26:20 INFO  LibraryProfiler           :         Handler : 19
+17:26:20 INFO  LibraryProfiler           :         LayoutContainer : 11
+17:26:20 INFO  LibraryProfiler           :         Plain : 2527
+17:26:20 INFO  LibraryProfiler           :         Service : 11
+17:26:20 INFO  LibraryProfiler           :         Thread : 9
+17:26:20 INFO  LibraryProfiler           :         View : 7
+17:26:20 INFO  LibraryProfiler           :     # methods: 17363
+17:26:20 INFO  LibraryProfiler           :         # of publicly accessible methods: 12973
+17:26:20 INFO  LibraryProfiler           :         # of non-accessible methods: 4390
+17:26:20 INFO  LibraryProfiler           : 
+17:26:20 INFO  Profile                   : = PackageTree =
+17:26:20 INFO  PackageTree               : Root Package:  - none -
+17:26:20 INFO  PackageTree               : └── Root
+17:26:20 INFO  PackageTree               :     ├── com
+17:26:20 INFO  PackageTree               :     │   ├── google
+17:26:20 INFO  PackageTree               :     │   │   ├── android
+17:26:20 INFO  PackageTree               :     │   │   │   └── gms
+17:26:20 INFO  PackageTree               :     │   │   │       ├── internal (451)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── analytics (45)
+17:26:20 INFO  PackageTree               :     │   │   │       │   ├── internal (76)
+17:26:20 INFO  PackageTree               :     │   │   │       │   └── ecommerce (3)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── common (26)
+17:26:20 INFO  PackageTree               :     │   │   │       │   ├── internal (97)
+17:26:20 INFO  PackageTree               :     │   │   │       │   │   └── safeparcel (6)
+17:26:20 INFO  PackageTree               :     │   │   │       │   ├── images (16)
+17:26:20 INFO  PackageTree               :     │   │   │       │   ├── util (27)
+17:26:20 INFO  PackageTree               :     │   │   │       │   ├── data (20)
+17:26:20 INFO  PackageTree               :     │   │   │       │   ├── api (49)
+17:26:20 INFO  PackageTree               :     │   │   │       │   ├── server (2)
+17:26:20 INFO  PackageTree               :     │   │   │       │   │   ├── response (13)
+17:26:20 INFO  PackageTree               :     │   │   │       │   │   └── converter (6)
+17:26:20 INFO  PackageTree               :     │   │   │       │   ├── stats (13)
+17:26:20 INFO  PackageTree               :     │   │   │       │   └── annotation (1)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── gcm (27)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── flags
+17:26:20 INFO  PackageTree               :     │   │   │       │   └── impl (12)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── tagmanager (190)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── measurement (9)
+17:26:20 INFO  PackageTree               :     │   │   │       │   └── internal (103)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── dynamic (22)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── tasks (29)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── ads
+17:26:20 INFO  PackageTree               :     │   │   │       │   └── identifier (3)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── actions (4)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── auth
+17:26:20 INFO  PackageTree               :     │   │   │       │   └── api
+17:26:20 INFO  PackageTree               :     │   │   │       │       └── signin (7)
+17:26:20 INFO  PackageTree               :     │   │   │       │           └── internal (2)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── signin
+17:26:20 INFO  PackageTree               :     │   │   │       │   └── internal (18)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── iid (14)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── phenotype (5)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── playlog
+17:26:20 INFO  PackageTree               :     │   │   │       │   └── internal (2)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── dynamite
+17:26:20 INFO  PackageTree               :     │   │   │       │   └── descriptors
+17:26:20 INFO  PackageTree               :     │   │   │       │       └── com
+17:26:20 INFO  PackageTree               :     │   │   │       │           └── google
+17:26:20 INFO  PackageTree               :     │   │   │       │               └── android
+17:26:20 INFO  PackageTree               :     │   │   │       │                   └── gms
+17:26:20 INFO  PackageTree               :     │   │   │       │                       └── flags (1)
+17:26:20 INFO  PackageTree               :     │   │   │       ├── security (3)
+17:26:20 INFO  PackageTree               :     │   │   │       └── location
+17:26:20 INFO  PackageTree               :     │   │   │           └── places (2)
+17:26:20 INFO  PackageTree               :     │   │   └── firebase (9)
+17:26:20 INFO  PackageTree               :     │   │       ├── iid (15)
+17:26:20 INFO  PackageTree               :     │   │       ├── provider (1)
+17:26:20 INFO  PackageTree               :     │   │       ├── analytics (4)
+17:26:20 INFO  PackageTree               :     │   │       └── auth (9)
+17:26:20 INFO  PackageTree               :     │   ├── sharefaith
+17:26:20 INFO  PackageTree               :     │   │   └── sfchurchapp_2051ab6169696d6c (5)
+17:26:20 INFO  PackageTree               :     │   │       ├── models (10)
+17:26:20 INFO  PackageTree               :     │   │       ├── ui (95)
+17:26:20 INFO  PackageTree               :     │   │       ├── adapters (34)
+17:26:20 INFO  PackageTree               :     │   │       └── base (33)
+17:26:20 INFO  PackageTree               :     │   ├── dd (20)
+17:26:20 INFO  PackageTree               :     │   └── appideas
+17:26:20 INFO  PackageTree               :     │       └── base (7)
+17:26:20 INFO  PackageTree               :     ├── org
+17:26:20 INFO  PackageTree               :     │   ├── kamranzafar
+17:26:20 INFO  PackageTree               :     │   │   └── jtar (9)
+17:26:20 INFO  PackageTree               :     │   └── apache
+17:26:20 INFO  PackageTree               :     │       └── commons
+17:26:20 INFO  PackageTree               :     │           └── compress
+17:26:20 INFO  PackageTree               :     │               ├── archivers (5)
+17:26:20 INFO  PackageTree               :     │               │   ├── zip (27)
+17:26:20 INFO  PackageTree               :     │               │   ├── cpio (5)
+17:26:20 INFO  PackageTree               :     │               │   ├── tar (6)
+17:26:20 INFO  PackageTree               :     │               │   ├── ar (3)
+17:26:20 INFO  PackageTree               :     │               │   └── jar (3)
+17:26:20 INFO  PackageTree               :     │               ├── changes (4)
+17:26:20 INFO  PackageTree               :     │               ├── compressors (4)
+17:26:20 INFO  PackageTree               :     │               │   ├── bzip2 (7)
+17:26:20 INFO  PackageTree               :     │               │   └── gzip (3)
+17:26:20 INFO  PackageTree               :     │               └── utils (2)
+17:26:20 INFO  PackageTree               :     └── android
+17:26:20 INFO  PackageTree               :         └── support
+17:26:20 INFO  PackageTree               :             ├── annotation (41)
+17:26:20 INFO  PackageTree               :             └── v4
+17:26:20 INFO  PackageTree               :                 ├── app (198)
+17:26:20 INFO  PackageTree               :                 ├── view (190)
+17:26:20 INFO  PackageTree               :                 │   ├── accessibility (68)
+17:26:20 INFO  PackageTree               :                 │   └── animation (8)
+17:26:20 INFO  PackageTree               :                 ├── content (50)
+17:26:20 INFO  PackageTree               :                 │   ├── pm (1)
+17:26:20 INFO  PackageTree               :                 │   └── res (4)
+17:26:20 INFO  PackageTree               :                 ├── media (40)
+17:26:20 INFO  PackageTree               :                 │   ├── routing (20)
+17:26:20 INFO  PackageTree               :                 │   └── session (75)
+17:26:20 INFO  PackageTree               :                 ├── text (22)
+17:26:20 INFO  PackageTree               :                 ├── widget (143)
+17:26:20 INFO  PackageTree               :                 ├── print (13)
+17:26:20 INFO  PackageTree               :                 ├── os (15)
+17:26:20 INFO  PackageTree               :                 ├── util (24)
+17:26:20 INFO  PackageTree               :                 ├── hardware
+17:26:20 INFO  PackageTree               :                 │   ├── fingerprint (13)
+17:26:20 INFO  PackageTree               :                 │   └── display (4)
+17:26:20 INFO  PackageTree               :                 ├── graphics (10)
+17:26:20 INFO  PackageTree               :                 │   └── drawable (25)
+17:26:20 INFO  PackageTree               :                 ├── net (16)
+17:26:20 INFO  PackageTree               :                 ├── speech
+17:26:20 INFO  PackageTree               :                 │   └── tts (5)
+17:26:20 INFO  PackageTree               :                 ├── internal
+17:26:20 INFO  PackageTree               :                 │   └── view (3)
+17:26:20 INFO  PackageTree               :                 ├── provider (6)
+17:26:20 INFO  PackageTree               :                 ├── animation (12)
+17:26:20 INFO  PackageTree               :                 ├── accessibilityservice (7)
+17:26:20 INFO  PackageTree               :                 └── database (1)
+17:26:20 INFO  Profile                   : 
+17:26:20 INFO  AppProfile                : - generated app package tree (in 29 ms)
+17:26:20 INFO  AppProfile                : 
+17:26:20 DEBUG HashTree                  : Generate library hash tree..
+17:26:20 INFO  HashTree                  : [Config]filterDups? false | accessFlagsFilter? [0]  | filterInnerClasses: false | hash-algo: MD5 | verboseness: NORMAL
+17:26:21 DEBUG HashTree                  :     - generated 17363 method hashes.
+17:26:21 DEBUG HashTree                  :     - generated 2557 clazz hashes.
+17:26:21 DEBUG HashTree                  :     - generated 84 package hashes.
+17:26:21 DEBUG HashTree                  :     => Library Hash: 4391d6c93f07ec0abb50c0e92ab25154
+17:26:21 INFO  AppProfile                : - generated app hash trees (in 420 ms)
+17:26:21 INFO  AppProfile                : 
+17:26:21 INFO  LibraryIdentifier         : = Scan for library root packages (heuristic) =
+17:26:21 INFO  LibraryIdentifier         : 
+17:26:21 INFO  LibraryIdentifier         : = Match profiles =
+17:26:21 INFO  LibraryIdentifier         :     >> profile matching done (112 ms)
+17:26:21 INFO  LibraryIdentifier         : 
+17:26:21 INFO  LibraryIdentifier         : == Report ==
+17:26:21 INFO  LibraryIdentifier         : - Full library matches:
+17:26:21 INFO  LibraryIdentifier         : 
+17:26:21 INFO  LibraryIdentifier         : - Partial library matches:
+17:26:21 INFO  LibraryIdentifier         : 
+17:26:21 INFO  LibraryIdentifier         : Serialize app stats to disk (dir: .\stats)
+17:26:21 INFO  LibraryIdentifier         : App processing time: 1 sec, 455 ms

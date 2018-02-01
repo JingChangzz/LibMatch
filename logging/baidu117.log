@@ -1,0 +1,396 @@
+17:26:38 INFO  LibraryIdentifier         : Process app: baidu117.apk
+17:26:38 INFO  LibraryIdentifier         : = Manifest Parser =
+17:26:38 INFO  LibraryIdentifier         :     Package name: com.klimbo.wordsearchadventure
+17:26:38 INFO  LibraryIdentifier         :     Version code: 15
+17:26:38 INFO  LibraryIdentifier         :     minSdkVersion: 14
+17:26:38 INFO  LibraryIdentifier         :     SharedUserId:  - none -
+17:26:38 INFO  LibraryIdentifier         :     Library dependencies:  - none -
+17:26:38 INFO  LibraryIdentifier         : 
+17:26:38 INFO  LibraryIdentifier         :     Loaded 8 unique libraries with 16 library profiles (in 120 ms)
+17:26:38 INFO  LibraryIdentifier         : 
+17:26:38 INFO  LibraryIdentifier         : Multi-dex apk detected - Code is merged to single class hierarchy!
+17:26:39 INFO  LibraryIdentifier         : generated class hierarchy (in 833 ms)
+17:26:40 INFO  LibraryProfiler           : 
+17:26:40 INFO  LibraryProfiler           : = ClassHierarchy Stats =
+17:26:40 INFO  LibraryProfiler           :     # of classes: 8926
+17:26:40 INFO  LibraryProfiler           :     # thereof inner classes: 4743
+17:26:40 INFO  LibraryProfiler           :     # thereof public classes: 4550
+17:26:40 INFO  LibraryProfiler           :         Activity : 40
+17:26:40 INFO  LibraryProfiler           :         Application : 1
+17:26:40 INFO  LibraryProfiler           :         AsyncTask : 49
+17:26:40 INFO  LibraryProfiler           :         BroadcastReceiver : 26
+17:26:40 INFO  LibraryProfiler           :         ContentProvider : 1
+17:26:40 INFO  LibraryProfiler           :         Fragment : 12
+17:26:40 INFO  LibraryProfiler           :         Handler : 27
+17:26:40 INFO  LibraryProfiler           :         LayoutContainer : 143
+17:26:40 INFO  LibraryProfiler           :         Plain : 8520
+17:26:40 INFO  LibraryProfiler           :         Service : 5
+17:26:40 INFO  LibraryProfiler           :         Thread : 20
+17:26:40 INFO  LibraryProfiler           :         View : 82
+17:26:40 INFO  LibraryProfiler           :     # methods: 51814
+17:26:40 INFO  LibraryProfiler           :         # of publicly accessible methods: 37339
+17:26:40 INFO  LibraryProfiler           :         # of non-accessible methods: 14475
+17:26:40 INFO  LibraryProfiler           : 
+17:26:40 INFO  Profile                   : = PackageTree =
+17:26:40 INFO  PackageTree               : Root Package:  - none -
+17:26:40 INFO  PackageTree               : └── Root
+17:26:40 INFO  PackageTree               :     ├── android
+17:26:40 INFO  PackageTree               :     │   └── support
+17:26:40 INFO  PackageTree               :     │       ├── v7
+17:26:40 INFO  PackageTree               :     │       │   ├── widget (157)
+17:26:40 INFO  PackageTree               :     │       │   ├── a (59)
+17:26:40 INFO  PackageTree               :     │       │   ├── view (14)
+17:26:40 INFO  PackageTree               :     │       │   │   └── menu (34)
+17:26:40 INFO  PackageTree               :     │       │   ├── b (12)
+17:26:40 INFO  PackageTree               :     │       │   ├── c
+17:26:40 INFO  PackageTree               :     │       │   │   └── a (1)
+17:26:40 INFO  PackageTree               :     │       │   ├── e (1)
+17:26:40 INFO  PackageTree               :     │       │   └── d (1)
+17:26:40 INFO  PackageTree               :     │       ├── v4
+17:26:40 INFO  PackageTree               :     │       │   ├── content (52)
+17:26:40 INFO  PackageTree               :     │       │   │   ├── res (5)
+17:26:40 INFO  PackageTree               :     │       │   │   └── pm (1)
+17:26:40 INFO  PackageTree               :     │       │   ├── widget (151)
+17:26:40 INFO  PackageTree               :     │       │   ├── view (196)
+17:26:40 INFO  PackageTree               :     │       │   │   ├── accessibility (68)
+17:26:40 INFO  PackageTree               :     │       │   │   └── animation (8)
+17:26:40 INFO  PackageTree               :     │       │   ├── media (126)
+17:26:40 INFO  PackageTree               :     │       │   │   └── session (77)
+17:26:40 INFO  PackageTree               :     │       │   ├── util (24)
+17:26:40 INFO  PackageTree               :     │       │   ├── hardware
+17:26:40 INFO  PackageTree               :     │       │   │   ├── fingerprint (13)
+17:26:40 INFO  PackageTree               :     │       │   │   └── display (4)
+17:26:40 INFO  PackageTree               :     │       │   ├── app (205)
+17:26:40 INFO  PackageTree               :     │       │   ├── graphics (10)
+17:26:40 INFO  PackageTree               :     │       │   │   └── drawable (33)
+17:26:40 INFO  PackageTree               :     │       │   ├── text (22)
+17:26:40 INFO  PackageTree               :     │       │   ├── provider (6)
+17:26:40 INFO  PackageTree               :     │       │   ├── os (22)
+17:26:40 INFO  PackageTree               :     │       │   ├── net (16)
+17:26:40 INFO  PackageTree               :     │       │   ├── accessibilityservice (7)
+17:26:40 INFO  PackageTree               :     │       │   ├── internal
+17:26:40 INFO  PackageTree               :     │       │   │   └── view (3)
+17:26:40 INFO  PackageTree               :     │       │   ├── print (13)
+17:26:40 INFO  PackageTree               :     │       │   ├── speech
+17:26:40 INFO  PackageTree               :     │       │   │   └── tts (5)
+17:26:40 INFO  PackageTree               :     │       │   ├── animation (12)
+17:26:40 INFO  PackageTree               :     │       │   └── database (1)
+17:26:40 INFO  PackageTree               :     │       ├── a
+17:26:40 INFO  PackageTree               :     │       │   └── a (18)
+17:26:40 INFO  PackageTree               :     │       ├── multidex (9)
+17:26:40 INFO  PackageTree               :     │       └── annotation (1)
+17:26:40 INFO  PackageTree               :     ├── com
+17:26:40 INFO  PackageTree               :     │   ├── klimbo
+17:26:40 INFO  PackageTree               :     │   │   └── wordsearchadventure (2)
+17:26:40 INFO  PackageTree               :     │   │       ├── game (85)
+17:26:40 INFO  PackageTree               :     │   │       ├── ui (7)
+17:26:40 INFO  PackageTree               :     │   │       ├── prefs (4)
+17:26:40 INFO  PackageTree               :     │   │       ├── colorpicker (10)
+17:26:40 INFO  PackageTree               :     │   │       └── a (5)
+17:26:40 INFO  PackageTree               :     │   ├── google
+17:26:40 INFO  PackageTree               :     │   │   ├── android
+17:26:40 INFO  PackageTree               :     │   │   │   └── gms
+17:26:40 INFO  PackageTree               :     │   │   │       ├── internal (1099)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── ads (19)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── internal (60)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── client (92)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── formats (23)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── purchase (16)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── request (46)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── overlay (44)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── reward
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   │   ├── mediation
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   │   │   └── client (6)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   │   └── client (18)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   └── util
+17:26:40 INFO  PackageTree               :     │   │   │       │   │       └── client (8)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── reward (3)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   └── mediation (2)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── formats (15)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── mediation (15)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── customevent (13)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   └── admob (1)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── search (5)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── identifier (3)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── purchase (5)
+17:26:40 INFO  PackageTree               :     │   │   │       │   └── doubleclick (7)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── common (26)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── images (16)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── internal (97)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   └── safeparcel (6)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── util (27)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── api (49)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── data (20)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── stats (13)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── server (2)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── converter (6)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   └── response (13)
+17:26:40 INFO  PackageTree               :     │   │   │       │   └── annotation (1)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── games (57)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── internal (239)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── api (248)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── player (12)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── constants (26)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── request (4)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── game (12)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── events (4)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── notification (3)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── data (1)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── experience (5)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   └── multiplayer (2)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── snapshot (20)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── multiplayer (20)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   ├── turnbased (17)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   └── realtime (17)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── leaderboard (20)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── social (11)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── appcontent (34)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── video (22)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── quest (15)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── request (14)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── event (7)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── stats (7)
+17:26:40 INFO  PackageTree               :     │   │   │       │   └── achievement (8)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── drive (53)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── internal (196)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── realtime
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   └── internal (49)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │       └── event (22)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── query (11)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   └── internal (28)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── events (35)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   └── internal (4)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── metadata (10)
+17:26:40 INFO  PackageTree               :     │   │   │       │   │   └── internal (25)
+17:26:40 INFO  PackageTree               :     │   │   │       │   └── widget (1)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── flags
+17:26:40 INFO  PackageTree               :     │   │   │       │   └── impl (12)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── dynamic (22)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── location (49)
+17:26:40 INFO  PackageTree               :     │   │   │       │   ├── internal (58)
+17:26:40 INFO  PackageTree               :     │   │   │       │   └── places (2)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── actions (4)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── gass
+17:26:40 INFO  PackageTree               :     │   │   │       │   └── internal (10)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── signin
+17:26:40 INFO  PackageTree               :     │   │   │       │   └── internal (18)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── dynamite
+17:26:40 INFO  PackageTree               :     │   │   │       │   └── descriptors
+17:26:40 INFO  PackageTree               :     │   │   │       │       └── com
+17:26:40 INFO  PackageTree               :     │   │   │       │           └── google
+17:26:40 INFO  PackageTree               :     │   │   │       │               └── android
+17:26:40 INFO  PackageTree               :     │   │   │       │                   └── gms
+17:26:40 INFO  PackageTree               :     │   │   │       │                       ├── ads
+17:26:40 INFO  PackageTree               :     │   │   │       │                       │   └── dynamite (1)
+17:26:40 INFO  PackageTree               :     │   │   │       │                       └── flags (1)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── tasks (29)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── playlog
+17:26:40 INFO  PackageTree               :     │   │   │       │   └── internal (2)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── phenotype (5)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── auth
+17:26:40 INFO  PackageTree               :     │   │   │       │   └── api
+17:26:40 INFO  PackageTree               :     │   │   │       │       └── signin (7)
+17:26:40 INFO  PackageTree               :     │   │   │       │           └── internal (2)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── iid (6)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── clearcut (10)
+17:26:40 INFO  PackageTree               :     │   │   │       └── security (3)
+17:26:40 INFO  PackageTree               :     │   │   ├── ads (4)
+17:26:40 INFO  PackageTree               :     │   │   │   └── mediation (18)
+17:26:40 INFO  PackageTree               :     │   │   │       ├── customevent (9)
+17:26:40 INFO  PackageTree               :     │   │   │       └── admob (1)
+17:26:40 INFO  PackageTree               :     │   │   └── a (2)
+17:26:40 INFO  PackageTree               :     │   ├── appodeal
+17:26:40 INFO  PackageTree               :     │   │   └── ads (241)
+17:26:40 INFO  PackageTree               :     │   │       ├── b (43)
+17:26:40 INFO  PackageTree               :     │   │       ├── networks (48)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── vpaid (21)
+17:26:40 INFO  PackageTree               :     │   │       │   └── spotx (30)
+17:26:40 INFO  PackageTree               :     │   │       ├── native_ad (48)
+17:26:40 INFO  PackageTree               :     │   │       │   └── views (4)
+17:26:40 INFO  PackageTree               :     │   │       ├── d (13)
+17:26:40 INFO  PackageTree               :     │   │       ├── utils (52)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── a (5)
+17:26:40 INFO  PackageTree               :     │   │       │   └── b (3)
+17:26:40 INFO  PackageTree               :     │   │       ├── c (24)
+17:26:40 INFO  PackageTree               :     │   │       ├── g (41)
+17:26:40 INFO  PackageTree               :     │   │       ├── e (46)
+17:26:40 INFO  PackageTree               :     │   │       ├── f (11)
+17:26:40 INFO  PackageTree               :     │   │       └── a (38)
+17:26:40 INFO  PackageTree               :     │   ├── mopub
+17:26:40 INFO  PackageTree               :     │   │   ├── volley (33)
+17:26:40 INFO  PackageTree               :     │   │   │   └── toolbox (36)
+17:26:40 INFO  PackageTree               :     │   │   ├── network (32)
+17:26:40 INFO  PackageTree               :     │   │   ├── mobileads (164)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── util (7)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── factories (10)
+17:26:40 INFO  PackageTree               :     │   │   │   └── resource (15)
+17:26:40 INFO  PackageTree               :     │   │   ├── nativeads (101)
+17:26:40 INFO  PackageTree               :     │   │   │   └── factories (1)
+17:26:40 INFO  PackageTree               :     │   │   ├── common (82)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── event (24)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── util (27)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── logging (2)
+17:26:40 INFO  PackageTree               :     │   │   │   └── factories (1)
+17:26:40 INFO  PackageTree               :     │   │   ├── mraid (52)
+17:26:40 INFO  PackageTree               :     │   │   └── exceptions (2)
+17:26:40 INFO  PackageTree               :     │   ├── chartboost
+17:26:40 INFO  PackageTree               :     │   │   └── sdk (89)
+17:26:40 INFO  PackageTree               :     │   │       ├── impl (176)
+17:26:40 INFO  PackageTree               :     │   │       ├── Libraries (41)
+17:26:40 INFO  PackageTree               :     │   │       ├── Model (11)
+17:26:40 INFO  PackageTree               :     │   │       ├── Tracking (6)
+17:26:40 INFO  PackageTree               :     │   │       └── InPlay (6)
+17:26:40 INFO  PackageTree               :     │   ├── flurry
+17:26:40 INFO  PackageTree               :     │   │   ├── sdk (254)
+17:26:40 INFO  PackageTree               :     │   │   └── android (9)
+17:26:40 INFO  PackageTree               :     │   ├── unity3d
+17:26:40 INFO  PackageTree               :     │   │   └── ads
+17:26:40 INFO  PackageTree               :     │   │       ├── android2 (11)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── data (6)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── webapp (21)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── view (12)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── video (20)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── zone (3)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── item (2)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── cache (4)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── unity3d (4)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── properties (2)
+17:26:40 INFO  PackageTree               :     │   │       │   └── campaign (2)
+17:26:40 INFO  PackageTree               :     │   │       └── android (11)
+17:26:40 INFO  PackageTree               :     │   │           ├── data (6)
+17:26:40 INFO  PackageTree               :     │   │           ├── video (20)
+17:26:40 INFO  PackageTree               :     │   │           ├── view (12)
+17:26:40 INFO  PackageTree               :     │   │           ├── webapp (21)
+17:26:40 INFO  PackageTree               :     │   │           ├── zone (3)
+17:26:40 INFO  PackageTree               :     │   │           ├── unity3d (4)
+17:26:40 INFO  PackageTree               :     │   │           ├── campaign (2)
+17:26:40 INFO  PackageTree               :     │   │           ├── item (2)
+17:26:40 INFO  PackageTree               :     │   │           ├── cache (4)
+17:26:40 INFO  PackageTree               :     │   │           └── properties (2)
+17:26:40 INFO  PackageTree               :     │   ├── applovin
+17:26:40 INFO  PackageTree               :     │   │   ├── impl
+17:26:40 INFO  PackageTree               :     │   │   │   ├── adview (44)
+17:26:40 INFO  PackageTree               :     │   │   │   └── sdk (121)
+17:26:40 INFO  PackageTree               :     │   │   ├── nativeAds (4)
+17:26:40 INFO  PackageTree               :     │   │   ├── adview (31)
+17:26:40 INFO  PackageTree               :     │   │   └── sdk (21)
+17:26:40 INFO  PackageTree               :     │   ├── my
+17:26:40 INFO  PackageTree               :     │   │   └── target (2)
+17:26:40 INFO  PackageTree               :     │   │       ├── core (1)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── ui (4)
+17:26:40 INFO  PackageTree               :     │   │       │   │   ├── views (30)
+17:26:40 INFO  PackageTree               :     │   │       │   │   │   ├── fspromo (20)
+17:26:40 INFO  PackageTree               :     │   │       │   │   │   ├── chrome (6)
+17:26:40 INFO  PackageTree               :     │   │       │   │   │   └── controls (2)
+17:26:40 INFO  PackageTree               :     │   │       │   │   └── drawables (1)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── utils (20)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── factories (4)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── async (1)
+17:26:40 INFO  PackageTree               :     │   │       │   │   └── commands (12)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── models (10)
+17:26:40 INFO  PackageTree               :     │   │       │   │   ├── sections (8)
+17:26:40 INFO  PackageTree               :     │   │       │   │   └── banners (9)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── controllers (7)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── facades (19)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── providers (9)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── engines (35)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── parsers (6)
+17:26:40 INFO  PackageTree               :     │   │       │   │   └── rb (5)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── communication
+17:26:40 INFO  PackageTree               :     │   │       │   │   └── js (3)
+17:26:40 INFO  PackageTree               :     │   │       │   │       ├── calls (6)
+17:26:40 INFO  PackageTree               :     │   │       │   │       └── events (9)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── net (6)
+17:26:40 INFO  PackageTree               :     │   │       │   │   └── cookie (3)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── enums (2)
+17:26:40 INFO  PackageTree               :     │   │       │   └── resources (1)
+17:26:40 INFO  PackageTree               :     │   │       ├── nativeads (10)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── views (12)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── models (2)
+17:26:40 INFO  PackageTree               :     │   │       │   ├── banners (3)
+17:26:40 INFO  PackageTree               :     │   │       │   └── factories (1)
+17:26:40 INFO  PackageTree               :     │   │       └── ads (15)
+17:26:40 INFO  PackageTree               :     │   ├── amazon
+17:26:40 INFO  PackageTree               :     │   │   └── device
+17:26:40 INFO  PackageTree               :     │   │       └── ads (405)
+17:26:40 INFO  PackageTree               :     │   ├── appbrain (32)
+17:26:40 INFO  PackageTree               :     │   │   ├── e (65)
+17:26:40 INFO  PackageTree               :     │   │   ├── a (181)
+17:26:40 INFO  PackageTree               :     │   │   ├── h (4)
+17:26:40 INFO  PackageTree               :     │   │   ├── b (38)
+17:26:40 INFO  PackageTree               :     │   │   ├── f (7)
+17:26:40 INFO  PackageTree               :     │   │   ├── d (5)
+17:26:40 INFO  PackageTree               :     │   │   ├── g (7)
+17:26:40 INFO  PackageTree               :     │   │   ├── mediation (3)
+17:26:40 INFO  PackageTree               :     │   │   └── c (1)
+17:26:40 INFO  PackageTree               :     │   ├── cmcm
+17:26:40 INFO  PackageTree               :     │   │   ├── adsdk (16)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── config (17)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── nativead (37)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── interstitial (9)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── banner (12)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── adapter (10)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── unifiedreport (3)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── offerreport (2)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── utils (6)
+17:26:40 INFO  PackageTree               :     │   │   │   └── base (4)
+17:26:40 INFO  PackageTree               :     │   │   ├── picks (4)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── vastvideo (45)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── webview (7)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── loader (16)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── gaid (5)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── mixad (18)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── init (5)
+17:26:40 INFO  PackageTree               :     │   │   │   ├── utils (1)
+17:26:40 INFO  PackageTree               :     │   │   │   └── market (2)
+17:26:40 INFO  PackageTree               :     │   │   ├── utils (31)
+17:26:40 INFO  PackageTree               :     │   │   └── baseapi
+17:26:40 INFO  PackageTree               :     │   │       └── ads (5)
+17:26:40 INFO  PackageTree               :     │   ├── yandex
+17:26:40 INFO  PackageTree               :     │   │   └── metrica (39)
+17:26:40 INFO  PackageTree               :     │   │       └── impl (135)
+17:26:40 INFO  PackageTree               :     │   │           ├── ob (160)
+17:26:40 INFO  PackageTree               :     │   │           ├── utils (13)
+17:26:40 INFO  PackageTree               :     │   │           └── interact (4)
+17:26:40 INFO  PackageTree               :     │   ├── a
+17:26:40 INFO  PackageTree               :     │   │   └── a (4)
+17:26:40 INFO  PackageTree               :     │   └── easyandroidanimations
+17:26:40 INFO  PackageTree               :     │       └── library (17)
+17:26:40 INFO  PackageTree               :     ├── cmn (59)
+17:26:40 INFO  PackageTree               :     └── org
+17:26:40 INFO  PackageTree               :         └── nexage
+17:26:40 INFO  PackageTree               :             └── sourcekit
+17:26:40 INFO  PackageTree               :                 ├── vast (7)
+17:26:40 INFO  PackageTree               :                 │   ├── model (7)
+17:26:40 INFO  PackageTree               :                 │   ├── view (4)
+17:26:40 INFO  PackageTree               :                 │   ├── processor (3)
+17:26:40 INFO  PackageTree               :                 │   └── activity (40)
+17:26:40 INFO  PackageTree               :                 ├── mraid (66)
+17:26:40 INFO  PackageTree               :                 │   ├── internal (5)
+17:26:40 INFO  PackageTree               :                 │   ├── rtb (8)
+17:26:40 INFO  PackageTree               :                 │   ├── properties (2)
+17:26:40 INFO  PackageTree               :                 │   └── nativefeature (3)
+17:26:40 INFO  PackageTree               :                 └── util (9)
+17:26:40 INFO  Profile                   : 
+17:26:40 INFO  AppProfile                : - generated app package tree (in 89 ms)
+17:26:40 INFO  AppProfile                : 
+17:26:40 DEBUG HashTree                  : Generate library hash tree..
+17:26:40 INFO  HashTree                  : [Config]filterDups? false | accessFlagsFilter? [0]  | filterInnerClasses: false | hash-algo: MD5 | verboseness: NORMAL
+17:26:41 DEBUG HashTree                  :     - generated 51814 method hashes.
+17:26:41 DEBUG HashTree                  :     - generated 8768 clazz hashes.
+17:26:41 DEBUG HashTree                  :     - generated 284 package hashes.
+17:26:41 DEBUG HashTree                  :     => Library Hash:  c25716e53a6a5b77b1de92ed2d5012b
+17:26:41 INFO  AppProfile                : - generated app hash trees (in 1 sec, 200 ms)
+17:26:41 INFO  AppProfile                : 
+17:26:41 INFO  LibraryIdentifier         : = Scan for library root packages (heuristic) =
+17:26:41 INFO  LibraryIdentifier         : 
+17:26:41 INFO  LibraryIdentifier         : = Match profiles =
+17:26:41 INFO  LibraryIdentifier         :     >> profile matching done (130 ms)
+17:26:41 INFO  LibraryIdentifier         : 
+17:26:41 INFO  LibraryIdentifier         : == Report ==
+17:26:41 INFO  LibraryIdentifier         : - Full library matches:
+17:26:41 INFO  LibraryIdentifier         : 
+17:26:41 INFO  LibraryIdentifier         : - Partial library matches:
+17:26:41 INFO  LibraryIdentifier         : 
+17:26:41 INFO  LibraryIdentifier         : Serialize app stats to disk (dir: .\stats)
+17:26:41 INFO  LibraryIdentifier         : App processing time: 3 sec, 53 ms

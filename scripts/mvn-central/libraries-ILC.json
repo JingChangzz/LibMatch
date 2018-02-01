@@ -1,0 +1,61 @@
+{
+    "libraries": [
+        {
+            "name": "Umeng Analytics",
+            "category": "Analytics",
+            "comment": "3rd-party analytics",
+            "groupid": "com.umeng.analytics",
+            "artefactid": "umeng-analytics"
+        }
+        ,{
+            "name": "Umeng Analytics",
+            "category": "Analytics",
+            "comment": "3rd-party analytics",
+            "groupid": "com.umeng.analytics",
+            "artefactid": "dplus"
+        }
+        ,{
+            "name": "Umeng Analytics",
+            "category": "Analytics",
+            "comment": "3rd-party Push service",
+            "groupid": "com.umeng.analytics",
+            "artefactid": "analytics"
+        }
+        ,{
+            "name": "Umeng Push",
+            "category": "Analytics",
+            "comment": "3rd-party Push service",
+            "groupid": "com.umeng.push",
+            "artefactid": "upush"
+        }
+        ,{
+            "name": "Umeng Sdk",
+            "category": "Utilities",
+            "comment": "3rd-party Utilities",
+            "groupid": "com.umeng.sdk",
+            "artefactid": "analytics"
+        }
+        ,{
+            "name": "Umeng Sdk",
+            "category": "Utilities",
+            "comment": "3rd-party Utilities",
+            "groupid": "com.umeng.sdk",
+            "artefactid": "common"
+        }
+        ,{
+            "name": "Google Gson",
+            "category": "Utilities",
+            "comment": "3rd-party Utilities",
+            "groupid": "com.google.code.gson",
+            "artefactid": "gson"
+        }
+        ,{
+            "name": "Google Protobuf",
+            "category": "Utilities",
+            "comment": "3rd-party Utilities",
+            "groupid": "com.google.protobuf",
+            "artefactid": "protobuf-java"
+        }
+
+    ]
+}

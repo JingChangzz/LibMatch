@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/wala.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.7.15-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android-23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-semver-0.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

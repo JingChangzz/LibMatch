@@ -1,0 +1,93 @@
+17:26:13 INFO  LibraryIdentifier         : Process app: baidu1.apk
+17:26:13 INFO  LibraryIdentifier         : = Manifest Parser =
+17:26:13 INFO  LibraryIdentifier         :     Package name: com.yhzqmn.mhdcx
+17:26:13 INFO  LibraryIdentifier         :     Version code: 2506
+17:26:13 INFO  LibraryIdentifier         :     minSdkVersion: 14
+17:26:13 INFO  LibraryIdentifier         :     SharedUserId:  - none -
+17:26:13 INFO  LibraryIdentifier         :     Library dependencies:  - none -
+17:26:13 INFO  LibraryIdentifier         : 
+17:26:13 INFO  LibraryIdentifier         :     Loaded 8 unique libraries with 16 library profiles (in 400 ms)
+17:26:13 INFO  LibraryIdentifier         : 
+17:26:13 INFO  LibraryIdentifier         : generated class hierarchy (in 690 ms)
+17:26:14 INFO  LibraryProfiler           : 
+17:26:14 INFO  LibraryProfiler           : = ClassHierarchy Stats =
+17:26:14 INFO  LibraryProfiler           :     # of classes: 682
+17:26:14 INFO  LibraryProfiler           :     # thereof inner classes: 5
+17:26:14 INFO  LibraryProfiler           :     # thereof public classes: 291
+17:26:14 INFO  LibraryProfiler           :         Activity : 46
+17:26:14 INFO  LibraryProfiler           :         Application : 1
+17:26:14 INFO  LibraryProfiler           :         AsyncTask : 1
+17:26:14 INFO  LibraryProfiler           :         BroadcastReceiver : 1
+17:26:14 INFO  LibraryProfiler           :         ContentProvider : 0
+17:26:14 INFO  LibraryProfiler           :         Fragment : 12
+17:26:14 INFO  LibraryProfiler           :         Handler : 34
+17:26:14 INFO  LibraryProfiler           :         LayoutContainer : 24
+17:26:14 INFO  LibraryProfiler           :         Plain : 534
+17:26:14 INFO  LibraryProfiler           :         Service : 1
+17:26:14 INFO  LibraryProfiler           :         Thread : 21
+17:26:14 INFO  LibraryProfiler           :         View : 7
+17:26:14 INFO  LibraryProfiler           :     # methods: 3246
+17:26:14 INFO  LibraryProfiler           :         # of publicly accessible methods: 2218
+17:26:14 INFO  LibraryProfiler           :         # of non-accessible methods: 1028
+17:26:14 INFO  LibraryProfiler           : 
+17:26:14 INFO  Profile                   : = PackageTree =
+17:26:14 INFO  PackageTree               : Root Package: com.pengbo.mhdcx
+17:26:14 INFO  PackageTree               : └── Root
+17:26:14 INFO  PackageTree               :     ├── com
+17:26:14 INFO  PackageTree               :     │   └── pengbo
+17:26:14 INFO  PackageTree               :     │       └── mhdcx (2)
+17:26:14 INFO  PackageTree               :     │           ├── ui
+17:26:14 INFO  PackageTree               :     │           │   ├── main_activity (84)
+17:26:14 INFO  PackageTree               :     │           │   ├── activity (71)
+17:26:14 INFO  PackageTree               :     │           │   └── trade_activity (69)
+17:26:14 INFO  PackageTree               :     │           ├── d (59)
+17:26:14 INFO  PackageTree               :     │           ├── tools (13)
+17:26:14 INFO  PackageTree               :     │           ├── dslv (28)
+17:26:14 INFO  PackageTree               :     │           ├── widget (31)
+17:26:14 INFO  PackageTree               :     │           ├── data (28)
+17:26:14 INFO  PackageTree               :     │           ├── app (7)
+17:26:14 INFO  PackageTree               :     │           ├── a (56)
+17:26:14 INFO  PackageTree               :     │           ├── view (47)
+17:26:14 INFO  PackageTree               :     │           ├── g
+17:26:14 INFO  PackageTree               :     │           │   └── a (17)
+17:26:14 INFO  PackageTree               :     │           ├── wheel
+17:26:14 INFO  PackageTree               :     │           │   └── widget (10)
+17:26:14 INFO  PackageTree               :     │           │       └── a (3)
+17:26:14 INFO  PackageTree               :     │           ├── b (5)
+17:26:14 INFO  PackageTree               :     │           ├── e (12)
+17:26:14 INFO  PackageTree               :     │           ├── h (3)
+17:26:14 INFO  PackageTree               :     │           ├── c (6)
+17:26:14 INFO  PackageTree               :     │           ├── f (1)
+17:26:14 INFO  PackageTree               :     │           └── service (4)
+17:26:14 INFO  PackageTree               :     └── android
+17:26:14 INFO  PackageTree               :         └── support
+17:26:14 INFO  PackageTree               :             └── v4
+17:26:14 INFO  PackageTree               :                 ├── app (34)
+17:26:14 INFO  PackageTree               :                 ├── c (13)
+17:26:14 INFO  PackageTree               :                 ├── view (41)
+17:26:14 INFO  PackageTree               :                 ├── a (2)
+17:26:14 INFO  PackageTree               :                 ├── widget (32)
+17:26:14 INFO  PackageTree               :                 └── b (4)
+17:26:14 INFO  Profile                   : 
+17:26:14 INFO  AppProfile                : - generated app package tree (in 40 ms)
+17:26:14 INFO  AppProfile                : 
+17:26:14 DEBUG HashTree                  : Generate library hash tree..
+17:26:14 INFO  HashTree                  : [Config]filterDups? false | accessFlagsFilter? [0]  | filterInnerClasses: false | hash-algo: MD5 | verboseness: NORMAL
+17:26:14 DEBUG HashTree                  :     - generated 3246 method hashes.
+17:26:14 DEBUG HashTree                  :     - generated 667 clazz hashes.
+17:26:14 DEBUG HashTree                  :     - generated 27 package hashes.
+17:26:14 DEBUG HashTree                  :     => Library Hash: 8c596873167d7ed8a8b58ea4e051a7ce
+17:26:14 INFO  AppProfile                : - generated app hash trees (in 190 ms)
+17:26:14 INFO  AppProfile                : 
+17:26:14 INFO  LibraryIdentifier         : = Scan for library root packages (heuristic) =
+17:26:14 INFO  LibraryIdentifier         : 
+17:26:14 INFO  LibraryIdentifier         : = Match profiles =
+17:26:14 INFO  LibraryIdentifier         :     >> profile matching done (90 ms)
+17:26:14 INFO  LibraryIdentifier         : 
+17:26:14 INFO  LibraryIdentifier         : == Report ==
+17:26:14 INFO  LibraryIdentifier         : - Full library matches:
+17:26:14 INFO  LibraryIdentifier         : 
+17:26:14 INFO  LibraryIdentifier         : - Partial library matches:
+17:26:14 INFO  LibraryIdentifier         : 
+17:26:14 INFO  LibraryIdentifier         : Serialize app stats to disk (dir: .\stats)
+17:26:14 INFO  LibraryIdentifier         : App processing time: 1 sec, 340 ms

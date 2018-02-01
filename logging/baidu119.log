@@ -1,0 +1,363 @@
+17:26:43 INFO  LibraryIdentifier         : Process app: baidu119.apk
+17:26:43 INFO  LibraryIdentifier         : = Manifest Parser =
+17:26:43 INFO  LibraryIdentifier         :     Package name: com.mycleverbaby.cleverbaby
+17:26:43 INFO  LibraryIdentifier         :     Version code: 1001182
+17:26:43 INFO  LibraryIdentifier         :     minSdkVersion: 14
+17:26:43 INFO  LibraryIdentifier         :     SharedUserId:  - none -
+17:26:43 INFO  LibraryIdentifier         :     Library dependencies:  - none -
+17:26:43 INFO  LibraryIdentifier         : 
+17:26:43 INFO  LibraryIdentifier         :     Loaded 8 unique libraries with 16 library profiles (in 120 ms)
+17:26:43 INFO  LibraryIdentifier         : 
+17:26:43 INFO  LibraryIdentifier         : generated class hierarchy (in 481 ms)
+17:26:44 INFO  LibraryProfiler           : 
+17:26:44 INFO  LibraryProfiler           : = ClassHierarchy Stats =
+17:26:44 INFO  LibraryProfiler           :     # of classes: 6178
+17:26:44 INFO  LibraryProfiler           :     # thereof inner classes: 3399
+17:26:44 INFO  LibraryProfiler           :     # thereof public classes: 2918
+17:26:44 INFO  LibraryProfiler           :         Activity : 20
+17:26:44 INFO  LibraryProfiler           :         Application : 5
+17:26:44 INFO  LibraryProfiler           :         AsyncTask : 29
+17:26:44 INFO  LibraryProfiler           :         BroadcastReceiver : 51
+17:26:44 INFO  LibraryProfiler           :         ContentProvider : 2
+17:26:44 INFO  LibraryProfiler           :         Fragment : 28
+17:26:44 INFO  LibraryProfiler           :         Handler : 29
+17:26:44 INFO  LibraryProfiler           :         LayoutContainer : 89
+17:26:44 INFO  LibraryProfiler           :         Plain : 5831
+17:26:44 INFO  LibraryProfiler           :         Service : 36
+17:26:44 INFO  LibraryProfiler           :         Thread : 14
+17:26:44 INFO  LibraryProfiler           :         View : 44
+17:26:44 INFO  LibraryProfiler           :     # methods: 40319
+17:26:44 INFO  LibraryProfiler           :         # of publicly accessible methods: 27943
+17:26:44 INFO  LibraryProfiler           :         # of non-accessible methods: 12376
+17:26:44 INFO  LibraryProfiler           : 
+17:26:44 INFO  Profile                   : = PackageTree =
+17:26:44 INFO  PackageTree               : Root Package:  - none -
+17:26:44 INFO  PackageTree               : └── Root
+17:26:44 INFO  PackageTree               :     ├── com
+17:26:44 INFO  PackageTree               :     │   ├── google
+17:26:44 INFO  PackageTree               :     │   │   ├── android
+17:26:44 INFO  PackageTree               :     │   │   │   ├── gms
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── analytics (45)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   ├── internal (76)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   └── ecommerce (3)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── auth (19)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   ├── api (9)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   │   ├── credentials (21)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   │   │   └── internal (25)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   │   ├── signin (13)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   │   │   └── internal (26)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   │   └── proxy (10)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   └── account (10)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── common (26)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   ├── internal (97)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   │   └── safeparcel (6)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   ├── images (16)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   ├── util (27)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   ├── server (2)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   │   ├── response (13)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   │   └── converter (6)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   ├── api (49)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   ├── data (20)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   ├── stats (13)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   └── annotation (1)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── internal (491)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── identity
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   └── intents (13)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │       └── model (4)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── flags
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   └── impl (12)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── dynamic (22)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── tagmanager (190)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── actions (4)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── tasks (29)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── signin
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   └── internal (18)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── playlog
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   └── internal (2)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── dynamite
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   └── descriptors
+17:26:44 INFO  PackageTree               :     │   │   │   │   │       └── com
+17:26:44 INFO  PackageTree               :     │   │   │   │   │           └── google
+17:26:44 INFO  PackageTree               :     │   │   │   │   │               └── android
+17:26:44 INFO  PackageTree               :     │   │   │   │   │                   └── gms
+17:26:44 INFO  PackageTree               :     │   │   │   │   │                       └── flags (1)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── phenotype (5)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── location
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   └── places (2)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── iid (6)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── ads
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   └── identifier (3)
+17:26:44 INFO  PackageTree               :     │   │   │   │   └── security (3)
+17:26:44 INFO  PackageTree               :     │   │   │   └── gcm (4)
+17:26:44 INFO  PackageTree               :     │   │   └── firebase (2)
+17:26:44 INFO  PackageTree               :     │   ├── facebook (80)
+17:26:44 INFO  PackageTree               :     │   │   ├── login (36)
+17:26:44 INFO  PackageTree               :     │   │   │   └── widget (17)
+17:26:44 INFO  PackageTree               :     │   │   ├── appevents (24)
+17:26:44 INFO  PackageTree               :     │   │   ├── internal (111)
+17:26:44 INFO  PackageTree               :     │   │   ├── share (17)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── widget (45)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── model (41)
+17:26:44 INFO  PackageTree               :     │   │   │   └── internal (84)
+17:26:44 INFO  PackageTree               :     │   │   ├── messenger (5)
+17:26:44 INFO  PackageTree               :     │   │   └── applinks (6)
+17:26:44 INFO  PackageTree               :     │   ├── sarriaroman
+17:26:44 INFO  PackageTree               :     │   │   └── fabric (16)
+17:26:44 INFO  PackageTree               :     │   ├── crashlytics
+17:26:44 INFO  PackageTree               :     │   │   └── android (2)
+17:26:44 INFO  PackageTree               :     │   │       ├── answers (50)
+17:26:44 INFO  PackageTree               :     │   │       ├── core (98)
+17:26:44 INFO  PackageTree               :     │   │       │   └── internal (1)
+17:26:44 INFO  PackageTree               :     │   │       │       └── models (7)
+17:26:44 INFO  PackageTree               :     │   │       └── beta (12)
+17:26:44 INFO  PackageTree               :     │   ├── apptentive
+17:26:44 INFO  PackageTree               :     │   │   ├── android
+17:26:44 INFO  PackageTree               :     │   │   │   └── sdk (14)
+17:26:44 INFO  PackageTree               :     │   │   │       ├── model (29)
+17:26:44 INFO  PackageTree               :     │   │   │       ├── module
+17:26:44 INFO  PackageTree               :     │   │   │       │   ├── messagecenter (13)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   ├── view (54)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   │   └── holder (17)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   └── model (13)
+17:26:44 INFO  PackageTree               :     │   │   │       │   ├── engagement (1)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   ├── interaction (3)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   │   ├── view
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   │   │   └── survey (7)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   │   ├── model (18)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   │   │   ├── common (6)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   │   │   └── survey (7)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   │   └── fragment (32)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   └── logic (22)
+17:26:44 INFO  PackageTree               :     │   │   │       │   ├── rating (2)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   ├── view (1)
+17:26:44 INFO  PackageTree               :     │   │   │       │   │   └── impl (3)
+17:26:44 INFO  PackageTree               :     │   │   │       │   ├── survey (2)
+17:26:44 INFO  PackageTree               :     │   │   │       │   └── metric (1)
+17:26:44 INFO  PackageTree               :     │   │   │       ├── view (15)
+17:26:44 INFO  PackageTree               :     │   │   │       ├── util (11)
+17:26:44 INFO  PackageTree               :     │   │   │       │   ├── image (20)
+17:26:44 INFO  PackageTree               :     │   │   │       │   ├── cache (4)
+17:26:44 INFO  PackageTree               :     │   │   │       │   └── task (4)
+17:26:44 INFO  PackageTree               :     │   │   │       ├── storage (14)
+17:26:44 INFO  PackageTree               :     │   │   │       ├── widget (3)
+17:26:44 INFO  PackageTree               :     │   │   │       ├── lifecycle (2)
+17:26:44 INFO  PackageTree               :     │   │   │       ├── comm (3)
+17:26:44 INFO  PackageTree               :     │   │   │       └── adapter (1)
+17:26:44 INFO  PackageTree               :     │   │   └── cordova (4)
+17:26:44 INFO  PackageTree               :     │   ├── amazon
+17:26:44 INFO  PackageTree               :     │   │   ├── device
+17:26:44 INFO  PackageTree               :     │   │   │   └── messaging (5)
+17:26:44 INFO  PackageTree               :     │   │   │       └── development (1)
+17:26:44 INFO  PackageTree               :     │   │   └── cordova
+17:26:44 INFO  PackageTree               :     │   │       └── plugin (5)
+17:26:44 INFO  PackageTree               :     │   ├── mycleverbaby
+17:26:44 INFO  PackageTree               :     │   │   └── cleverbaby (4)
+17:26:44 INFO  PackageTree               :     │   ├── plugin
+17:26:44 INFO  PackageTree               :     │   │   └── gcm (4)
+17:26:44 INFO  PackageTree               :     │   └── danielcwilson
+17:26:44 INFO  PackageTree               :     │       └── plugins
+17:26:44 INFO  PackageTree               :     │           └── analytics (1)
+17:26:44 INFO  PackageTree               :     ├── org
+17:26:44 INFO  PackageTree               :     │   ├── chromium
+17:26:44 INFO  PackageTree               :     │   │   ├── mojo
+17:26:44 INFO  PackageTree               :     │   │   │   ├── system (36)
+17:26:44 INFO  PackageTree               :     │   │   │   │   └── impl (11)
+17:26:44 INFO  PackageTree               :     │   │   │   └── bindings (57)
+17:26:44 INFO  PackageTree               :     │   │   ├── ui (28)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── touch_selection (2)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── base (23)
+17:26:44 INFO  PackageTree               :     │   │   │   │   └── ime (1)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── autofill (5)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── gfx (5)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── picker (29)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── resources (7)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── system (2)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── dynamics (7)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── sprites (2)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── async (3)
+17:26:44 INFO  PackageTree               :     │   │   │   │   └── statics (4)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── widget (6)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── gl (2)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── interpolators (1)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── accessibility (1)
+17:26:44 INFO  PackageTree               :     │   │   │   └── text (2)
+17:26:44 INFO  PackageTree               :     │   │   ├── base (80)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── annotations (11)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── library_loader (14)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── metrics (3)
+17:26:44 INFO  PackageTree               :     │   │   │   └── multidex (1)
+17:26:44 INFO  PackageTree               :     │   │   ├── content
+17:26:44 INFO  PackageTree               :     │   │   │   ├── app (32)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── browser (148)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── crypto (7)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── input (41)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── accessibility (12)
+17:26:44 INFO  PackageTree               :     │   │   │   │   │   └── captioning (12)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── webcontents (3)
+17:26:44 INFO  PackageTree               :     │   │   │   │   └── framehost (1)
+17:26:44 INFO  PackageTree               :     │   │   │   └── common (13)
+17:26:44 INFO  PackageTree               :     │   │   ├── mojom
+17:26:44 INFO  PackageTree               :     │   │   │   ├── mojo (283)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── device (20)
+17:26:44 INFO  PackageTree               :     │   │   │   └── skia (4)
+17:26:44 INFO  PackageTree               :     │   │   ├── device
+17:26:44 INFO  PackageTree               :     │   │   │   ├── bluetooth (22)
+17:26:44 INFO  PackageTree               :     │   │   │   ├── vibration (2)
+17:26:44 INFO  PackageTree               :     │   │   │   └── battery (7)
+17:26:44 INFO  PackageTree               :     │   │   ├── net (54)
+17:26:44 INFO  PackageTree               :     │   │   ├── media (42)
+17:26:44 INFO  PackageTree               :     │   │   │   └── midi (13)
+17:26:44 INFO  PackageTree               :     │   │   ├── blink_public
+17:26:44 INFO  PackageTree               :     │   │   │   ├── web (3)
+17:26:44 INFO  PackageTree               :     │   │   │   └── platform (1)
+17:26:44 INFO  PackageTree               :     │   │   ├── content_public
+17:26:44 INFO  PackageTree               :     │   │   │   ├── browser (11)
+17:26:44 INFO  PackageTree               :     │   │   │   │   ├── navigation_controller (2)
+17:26:44 INFO  PackageTree               :     │   │   │   │   └── readback_types (1)
+17:26:44 INFO  PackageTree               :     │   │   │   └── common (7)
+17:26:44 INFO  PackageTree               :     │   │   └── components
+17:26:44 INFO  PackageTree               :     │   │       ├── web_contents_delegate_android (4)
+17:26:44 INFO  PackageTree               :     │   │       └── navigation_interception (2)
+17:26:44 INFO  PackageTree               :     │   ├── xwalk
+17:26:44 INFO  PackageTree               :     │   │   └── core (70)
+17:26:44 INFO  PackageTree               :     │   │       ├── internal (165)
+17:26:44 INFO  PackageTree               :     │   │       │   ├── extension (3)
+17:26:44 INFO  PackageTree               :     │   │       │   │   └── api (4)
+17:26:44 INFO  PackageTree               :     │   │       │   │       ├── device_capabilities (14)
+17:26:44 INFO  PackageTree               :     │   │       │   │       ├── presentation (12)
+17:26:44 INFO  PackageTree               :     │   │       │   │       ├── wifidirect (6)
+17:26:44 INFO  PackageTree               :     │   │       │   │       ├── contacts (22)
+17:26:44 INFO  PackageTree               :     │   │       │   │       ├── messaging (21)
+17:26:44 INFO  PackageTree               :     │   │       │   │       └── launchscreen (1)
+17:26:44 INFO  PackageTree               :     │   │       │   └── extensions (2)
+17:26:44 INFO  PackageTree               :     │   │       └── extension (21)
+17:26:44 INFO  PackageTree               :     │   ├── apache
+17:26:44 INFO  PackageTree               :     │   │   └── cordova (72)
+17:26:44 INFO  PackageTree               :     │   │       ├── facebook (9)
+17:26:44 INFO  PackageTree               :     │   │       ├── engine (13)
+17:26:44 INFO  PackageTree               :     │   │       ├── statusbar (5)
+17:26:44 INFO  PackageTree               :     │   │       ├── inappbrowser (14)
+17:26:44 INFO  PackageTree               :     │   │       ├── splashscreen (10)
+17:26:44 INFO  PackageTree               :     │   │       ├── file (44)
+17:26:44 INFO  PackageTree               :     │   │       ├── filetransfer (13)
+17:26:44 INFO  PackageTree               :     │   │       ├── device (1)
+17:26:44 INFO  PackageTree               :     │   │       ├── networkinformation (2)
+17:26:44 INFO  PackageTree               :     │   │       ├── camera (4)
+17:26:44 INFO  PackageTree               :     │   │       ├── globalization (3)
+17:26:44 INFO  PackageTree               :     │   │       └── whitelist (2)
+17:26:44 INFO  PackageTree               :     │   └── crosswalk
+17:26:44 INFO  PackageTree               :     │       └── engine (20)
+17:26:44 INFO  PackageTree               :     ├── android
+17:26:44 INFO  PackageTree               :     │   └── support
+17:26:44 INFO  PackageTree               :     │       ├── v4
+17:26:44 INFO  PackageTree               :     │       │   ├── content (53)
+17:26:44 INFO  PackageTree               :     │       │   │   ├── res (13)
+17:26:44 INFO  PackageTree               :     │       │   │   └── pm (1)
+17:26:44 INFO  PackageTree               :     │       │   ├── app (217)
+17:26:44 INFO  PackageTree               :     │       │   ├── view (217)
+17:26:44 INFO  PackageTree               :     │       │   │   ├── accessibility (72)
+17:26:44 INFO  PackageTree               :     │       │   │   └── animation (8)
+17:26:44 INFO  PackageTree               :     │       │   ├── media (127)
+17:26:44 INFO  PackageTree               :     │       │   │   └── session (85)
+17:26:44 INFO  PackageTree               :     │       │   ├── widget (157)
+17:26:44 INFO  PackageTree               :     │       │   ├── net (20)
+17:26:44 INFO  PackageTree               :     │       │   ├── text (22)
+17:26:44 INFO  PackageTree               :     │       │   ├── os (25)
+17:26:44 INFO  PackageTree               :     │       │   ├── util (24)
+17:26:44 INFO  PackageTree               :     │       │   ├── hardware
+17:26:44 INFO  PackageTree               :     │       │   │   ├── fingerprint (13)
+17:26:44 INFO  PackageTree               :     │       │   │   └── display (4)
+17:26:44 INFO  PackageTree               :     │       │   ├── print (20)
+17:26:44 INFO  PackageTree               :     │       │   ├── graphics (10)
+17:26:44 INFO  PackageTree               :     │       │   │   └── drawable (33)
+17:26:44 INFO  PackageTree               :     │       │   ├── speech
+17:26:44 INFO  PackageTree               :     │       │   │   └── tts (5)
+17:26:44 INFO  PackageTree               :     │       │   ├── provider (6)
+17:26:44 INFO  PackageTree               :     │       │   ├── accessibilityservice (7)
+17:26:44 INFO  PackageTree               :     │       │   ├── animation (12)
+17:26:44 INFO  PackageTree               :     │       │   ├── internal
+17:26:44 INFO  PackageTree               :     │       │   │   └── view (3)
+17:26:44 INFO  PackageTree               :     │       │   └── database (1)
+17:26:44 INFO  PackageTree               :     │       ├── design
+17:26:44 INFO  PackageTree               :     │       │   ├── widget (159)
+17:26:44 INFO  PackageTree               :     │       │   └── internal (21)
+17:26:44 INFO  PackageTree               :     │       ├── v7
+17:26:44 INFO  PackageTree               :     │       │   ├── widget (276)
+17:26:44 INFO  PackageTree               :     │       │   │   ├── helper (19)
+17:26:44 INFO  PackageTree               :     │       │   │   └── util (1)
+17:26:44 INFO  PackageTree               :     │       │   ├── app (93)
+17:26:44 INFO  PackageTree               :     │       │   ├── util (20)
+17:26:44 INFO  PackageTree               :     │       │   ├── view (14)
+17:26:44 INFO  PackageTree               :     │       │   │   └── menu (34)
+17:26:44 INFO  PackageTree               :     │       │   ├── graphics
+17:26:44 INFO  PackageTree               :     │       │   │   └── drawable (3)
+17:26:44 INFO  PackageTree               :     │       │   ├── text (1)
+17:26:44 INFO  PackageTree               :     │       │   └── transition (1)
+17:26:44 INFO  PackageTree               :     │       ├── annotation (46)
+17:26:44 INFO  PackageTree               :     │       ├── graphics
+17:26:44 INFO  PackageTree               :     │       │   └── drawable (18)
+17:26:44 INFO  PackageTree               :     │       └── multidex (9)
+17:26:44 INFO  PackageTree               :     ├── io
+17:26:44 INFO  PackageTree               :     │   ├── fabric
+17:26:44 INFO  PackageTree               :     │   │   └── sdk
+17:26:44 INFO  PackageTree               :     │   │       └── android (21)
+17:26:44 INFO  PackageTree               :     │   │           └── services
+17:26:44 INFO  PackageTree               :     │   │               ├── concurrency (27)
+17:26:44 INFO  PackageTree               :     │   │               │   └── internal (9)
+17:26:44 INFO  PackageTree               :     │   │               ├── persistence (7)
+17:26:44 INFO  PackageTree               :     │   │               ├── network (26)
+17:26:44 INFO  PackageTree               :     │   │               ├── common (38)
+17:26:44 INFO  PackageTree               :     │   │               ├── settings (28)
+17:26:44 INFO  PackageTree               :     │   │               ├── events (20)
+17:26:44 INFO  PackageTree               :     │   │               └── cache (4)
+17:26:44 INFO  PackageTree               :     │   └── ionic
+17:26:44 INFO  PackageTree               :     │       └── keyboard (5)
+17:26:44 INFO  PackageTree               :     ├── javax
+17:26:44 INFO  PackageTree               :     │   └── annotation (24)
+17:26:44 INFO  PackageTree               :     │       ├── concurrent (4)
+17:26:44 INFO  PackageTree               :     │       └── meta (7)
+17:26:44 INFO  PackageTree               :     ├── bolts (41)
+17:26:44 INFO  PackageTree               :     ├── de
+17:26:44 INFO  PackageTree               :     │   └── appplant
+17:26:44 INFO  PackageTree               :     │       └── cordova
+17:26:44 INFO  PackageTree               :     │           └── plugin
+17:26:44 INFO  PackageTree               :     │               ├── notification (13)
+17:26:44 INFO  PackageTree               :     │               └── localnotification (7)
+17:26:44 INFO  PackageTree               :     ├── nl
+17:26:44 INFO  PackageTree               :     │   └── xservices
+17:26:44 INFO  PackageTree               :     │       └── plugins (10)
+17:26:44 INFO  PackageTree               :     ├── SevenZip (12)
+17:26:44 INFO  PackageTree               :     │   └── Compression
+17:26:44 INFO  PackageTree               :     │       ├── RangeCoder (4)
+17:26:44 INFO  PackageTree               :     │       ├── LZMA (11)
+17:26:44 INFO  PackageTree               :     │       └── LZ (3)
+17:26:44 INFO  PackageTree               :     ├── es
+17:26:44 INFO  PackageTree               :     │   └── keensoft
+17:26:44 INFO  PackageTree               :     │       └── fullscreenimage (1)
+17:26:44 INFO  PackageTree               :     └── uk
+17:26:44 INFO  PackageTree               :         └── co
+17:26:44 INFO  PackageTree               :             └── whiteoctober
+17:26:44 INFO  PackageTree               :                 └── cordova (1)
+17:26:44 INFO  Profile                   : 
+17:26:44 INFO  AppProfile                : - generated app package tree (in 50 ms)
+17:26:44 INFO  AppProfile                : 
+17:26:44 DEBUG HashTree                  : Generate library hash tree..
+17:26:44 INFO  HashTree                  : [Config]filterDups? false | accessFlagsFilter? [0]  | filterInnerClasses: false | hash-algo: MD5 | verboseness: NORMAL
+17:26:44 DEBUG HashTree                  :     - generated 40319 method hashes.
+17:26:44 DEBUG HashTree                  :     - generated 5995 clazz hashes.
+17:26:44 DEBUG HashTree                  :     - generated 235 package hashes.
+17:26:44 DEBUG HashTree                  :     => Library Hash: d29a9ce0bc7f1f7a49b29d9a28c0c3ed
+17:26:44 INFO  AppProfile                : - generated app hash trees (in 640 ms)
+17:26:44 INFO  AppProfile                : 
+17:26:44 INFO  LibraryIdentifier         : = Scan for library root packages (heuristic) =
+17:26:44 INFO  LibraryIdentifier         : 
+17:26:44 INFO  LibraryIdentifier         : = Match profiles =
+17:26:44 INFO  LibraryIdentifier         :     >> profile matching done (170 ms)
+17:26:44 INFO  LibraryIdentifier         : 
+17:26:44 INFO  LibraryIdentifier         : == Report ==
+17:26:44 INFO  LibraryIdentifier         : - Full library matches:
+17:26:44 INFO  LibraryIdentifier         : 
+17:26:44 INFO  LibraryIdentifier         : - Partial library matches:
+17:26:44 INFO  LibraryIdentifier         : 
+17:26:44 INFO  LibraryIdentifier         : Serialize app stats to disk (dir: .\stats)
+17:26:44 INFO  LibraryIdentifier         : App processing time: 1 sec, 850 ms

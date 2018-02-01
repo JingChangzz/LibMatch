@@ -1,0 +1,140 @@
+17:26:32 INFO  LibraryIdentifier         : Process app: baidu115.apk
+17:26:32 INFO  LibraryIdentifier         : = Manifest Parser =
+17:26:32 INFO  LibraryIdentifier         :     Package name: cz.wmp.geofun
+17:26:32 INFO  LibraryIdentifier         :     Version code: 108
+17:26:32 INFO  LibraryIdentifier         :     minSdkVersion: 11
+17:26:32 INFO  LibraryIdentifier         :     SharedUserId:  - none -
+17:26:32 INFO  LibraryIdentifier         :     Library dependencies:  - none -
+17:26:32 INFO  LibraryIdentifier         : 
+17:26:32 INFO  LibraryIdentifier         :     Loaded 8 unique libraries with 16 library profiles (in 120 ms)
+17:26:32 INFO  LibraryIdentifier         : 
+17:26:33 INFO  LibraryIdentifier         : generated class hierarchy (in 290 ms)
+17:26:33 INFO  LibraryProfiler           : 
+17:26:33 INFO  LibraryProfiler           : = ClassHierarchy Stats =
+17:26:33 INFO  LibraryProfiler           :     # of classes: 1184
+17:26:33 INFO  LibraryProfiler           :     # thereof inner classes: 753
+17:26:33 INFO  LibraryProfiler           :     # thereof public classes: 429
+17:26:33 INFO  LibraryProfiler           :         Activity : 6
+17:26:33 INFO  LibraryProfiler           :         Application : 0
+17:26:33 INFO  LibraryProfiler           :         AsyncTask : 3
+17:26:33 INFO  LibraryProfiler           :         BroadcastReceiver : 8
+17:26:33 INFO  LibraryProfiler           :         ContentProvider : 2
+17:26:33 INFO  LibraryProfiler           :         Fragment : 9
+17:26:33 INFO  LibraryProfiler           :         Handler : 7
+17:26:33 INFO  LibraryProfiler           :         LayoutContainer : 10
+17:26:33 INFO  LibraryProfiler           :         Plain : 1131
+17:26:33 INFO  LibraryProfiler           :         Service : 0
+17:26:33 INFO  LibraryProfiler           :         Thread : 4
+17:26:33 INFO  LibraryProfiler           :         View : 4
+17:26:33 INFO  LibraryProfiler           :     # methods: 8531
+17:26:33 INFO  LibraryProfiler           :         # of publicly accessible methods: 6085
+17:26:33 INFO  LibraryProfiler           :         # of non-accessible methods: 2446
+17:26:33 INFO  LibraryProfiler           : 
+17:26:33 INFO  Profile                   : = PackageTree =
+17:26:33 INFO  PackageTree               : Root Package:  - none -
+17:26:33 INFO  PackageTree               : └── Root
+17:26:33 INFO  PackageTree               :     ├── com
+17:26:33 INFO  PackageTree               :     │   ├── facebook (141)
+17:26:33 INFO  PackageTree               :     │   │   ├── widget (90)
+17:26:33 INFO  PackageTree               :     │   │   ├── android (16)
+17:26:33 INFO  PackageTree               :     │   │   ├── internal (49)
+17:26:33 INFO  PackageTree               :     │   │   └── model (19)
+17:26:33 INFO  PackageTree               :     │   ├── squareup
+17:26:33 INFO  PackageTree               :     │   │   └── okhttp (38)
+17:26:33 INFO  PackageTree               :     │   │       └── internal (22)
+17:26:33 INFO  PackageTree               :     │   │           ├── spdy (34)
+17:26:33 INFO  PackageTree               :     │   │           ├── http (32)
+17:26:33 INFO  PackageTree               :     │   │           └── tls (2)
+17:26:33 INFO  PackageTree               :     │   ├── mbppower (16)
+17:26:33 INFO  PackageTree               :     │   ├── moust
+17:26:33 INFO  PackageTree               :     │   │   └── cordova
+17:26:33 INFO  PackageTree               :     │   │       └── videoplayer (3)
+17:26:33 INFO  PackageTree               :     │   ├── hutchind
+17:26:33 INFO  PackageTree               :     │   │   └── cordova
+17:26:33 INFO  PackageTree               :     │   │       └── plugins
+17:26:33 INFO  PackageTree               :     │   │           └── streamingmedia (6)
+17:26:33 INFO  PackageTree               :     │   ├── phonegap (3)
+17:26:33 INFO  PackageTree               :     │   ├── darktalker
+17:26:33 INFO  PackageTree               :     │   │   └── cordova
+17:26:33 INFO  PackageTree               :     │   │       └── screenshot (3)
+17:26:33 INFO  PackageTree               :     │   └── xmartlabs
+17:26:33 INFO  PackageTree               :     │       └── cordova
+17:26:33 INFO  PackageTree               :     │           └── market (1)
+17:26:33 INFO  PackageTree               :     ├── android
+17:26:33 INFO  PackageTree               :     │   └── support
+17:26:33 INFO  PackageTree               :     │       └── v4
+17:26:33 INFO  PackageTree               :     │           ├── view (129)
+17:26:33 INFO  PackageTree               :     │           │   └── accessibility (47)
+17:26:33 INFO  PackageTree               :     │           ├── content (34)
+17:26:33 INFO  PackageTree               :     │           │   └── pm (1)
+17:26:33 INFO  PackageTree               :     │           ├── media (12)
+17:26:33 INFO  PackageTree               :     │           ├── app (99)
+17:26:33 INFO  PackageTree               :     │           ├── text (17)
+17:26:33 INFO  PackageTree               :     │           ├── widget (82)
+17:26:33 INFO  PackageTree               :     │           ├── print (6)
+17:26:33 INFO  PackageTree               :     │           ├── util (17)
+17:26:33 INFO  PackageTree               :     │           ├── graphics
+17:26:33 INFO  PackageTree               :     │           │   └── drawable (7)
+17:26:33 INFO  PackageTree               :     │           ├── net (16)
+17:26:33 INFO  PackageTree               :     │           ├── os (7)
+17:26:33 INFO  PackageTree               :     │           ├── hardware
+17:26:33 INFO  PackageTree               :     │           │   └── display (4)
+17:26:33 INFO  PackageTree               :     │           ├── internal
+17:26:33 INFO  PackageTree               :     │           │   └── view (3)
+17:26:33 INFO  PackageTree               :     │           ├── accessibilityservice (7)
+17:26:33 INFO  PackageTree               :     │           └── database (1)
+17:26:33 INFO  PackageTree               :     ├── org
+17:26:33 INFO  PackageTree               :     │   ├── apache
+17:26:33 INFO  PackageTree               :     │   │   └── cordova (75)
+17:26:33 INFO  PackageTree               :     │   │       ├── facebook (9)
+17:26:33 INFO  PackageTree               :     │   │       ├── engine (13)
+17:26:33 INFO  PackageTree               :     │   │       ├── media (6)
+17:26:33 INFO  PackageTree               :     │   │       ├── inappbrowser (14)
+17:26:33 INFO  PackageTree               :     │   │       ├── file (46)
+17:26:33 INFO  PackageTree               :     │   │       ├── splashscreen (10)
+17:26:33 INFO  PackageTree               :     │   │       ├── filetransfer (13)
+17:26:33 INFO  PackageTree               :     │   │       ├── mediacapture (5)
+17:26:33 INFO  PackageTree               :     │   │       ├── camera (4)
+17:26:33 INFO  PackageTree               :     │   │       ├── device (1)
+17:26:33 INFO  PackageTree               :     │   │       ├── networkinformation (2)
+17:26:33 INFO  PackageTree               :     │   │       ├── deviceorientation (2)
+17:26:33 INFO  PackageTree               :     │   │       ├── whitelist (2)
+17:26:33 INFO  PackageTree               :     │   │       └── plugin
+17:26:33 INFO  PackageTree               :     │   │           └── powermanagement (1)
+17:26:33 INFO  PackageTree               :     │   └── chromium (2)
+17:26:33 INFO  PackageTree               :     ├── nl
+17:26:33 INFO  PackageTree               :     │   └── xservices
+17:26:33 INFO  PackageTree               :     │       └── plugins (7)
+17:26:33 INFO  PackageTree               :     ├── net
+17:26:33 INFO  PackageTree               :     │   └── yoik
+17:26:33 INFO  PackageTree               :     │       └── cordova
+17:26:33 INFO  PackageTree               :     │           └── plugins
+17:26:33 INFO  PackageTree               :     │               └── screenorientation (1)
+17:26:33 INFO  PackageTree               :     ├── io
+17:26:33 INFO  PackageTree               :     │   └── sqlc (6)
+17:26:33 INFO  PackageTree               :     └── cz
+17:26:33 INFO  PackageTree               :         └── wmp
+17:26:33 INFO  PackageTree               :             └── geofun (1)
+17:26:33 INFO  Profile                   : 
+17:26:33 INFO  AppProfile                : - generated app package tree (in 20 ms)
+17:26:33 INFO  AppProfile                : 
+17:26:33 DEBUG HashTree                  : Generate library hash tree..
+17:26:33 INFO  HashTree                  : [Config]filterDups? false | accessFlagsFilter? [0]  | filterInnerClasses: false | hash-algo: MD5 | verboseness: NORMAL
+17:26:33 DEBUG HashTree                  :     - generated 8531 method hashes.
+17:26:33 DEBUG HashTree                  :     - generated 1181 clazz hashes.
+17:26:33 DEBUG HashTree                  :     - generated 53 package hashes.
+17:26:33 DEBUG HashTree                  :     => Library Hash: 35e8db63c71ee55eac0bf1d99a90fd4e
+17:26:33 INFO  AppProfile                : - generated app hash trees (in 160 ms)
+17:26:33 INFO  AppProfile                : 
+17:26:33 INFO  LibraryIdentifier         : = Scan for library root packages (heuristic) =
+17:26:33 INFO  LibraryIdentifier         : 
+17:26:33 INFO  LibraryIdentifier         : = Match profiles =
+17:26:33 INFO  LibraryIdentifier         :     >> profile matching done (30 ms)
+17:26:33 INFO  LibraryIdentifier         : 
+17:26:33 INFO  LibraryIdentifier         : == Report ==
+17:26:33 INFO  LibraryIdentifier         : - Full library matches:
+17:26:33 INFO  LibraryIdentifier         : 
+17:26:33 INFO  LibraryIdentifier         : - Partial library matches:
+17:26:33 INFO  LibraryIdentifier         : 
+17:26:33 INFO  LibraryIdentifier         : Serialize app stats to disk (dir: .\stats)
+17:26:33 INFO  LibraryIdentifier         : App processing time: 630 ms

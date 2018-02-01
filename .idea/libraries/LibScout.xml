@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibScout">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/LibScout.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

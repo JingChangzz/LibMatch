@@ -1,0 +1,157 @@
+17:26:45 INFO  LibraryIdentifier         : Process app: baidu12.apk
+17:26:45 INFO  LibraryIdentifier         : = Manifest Parser =
+17:26:45 INFO  LibraryIdentifier         :     Package name: com.yinyuexiazai
+17:26:45 INFO  LibraryIdentifier         :     Version code: 100004
+17:26:45 INFO  LibraryIdentifier         :     minSdkVersion: 8
+17:26:45 INFO  LibraryIdentifier         :     SharedUserId:  - none -
+17:26:45 INFO  LibraryIdentifier         :     Library dependencies:  - none -
+17:26:45 INFO  LibraryIdentifier         : 
+17:26:45 INFO  LibraryIdentifier         :     Loaded 8 unique libraries with 16 library profiles (in 120 ms)
+17:26:45 INFO  LibraryIdentifier         : 
+17:26:45 INFO  LibraryIdentifier         : generated class hierarchy (in 250 ms)
+17:26:45 INFO  LibraryProfiler           : 
+17:26:45 INFO  LibraryProfiler           : = ClassHierarchy Stats =
+17:26:45 INFO  LibraryProfiler           :     # of classes: 1358
+17:26:45 INFO  LibraryProfiler           :     # thereof inner classes: 156
+17:26:45 INFO  LibraryProfiler           :     # thereof public classes: 556
+17:26:45 INFO  LibraryProfiler           :         Activity : 14
+17:26:45 INFO  LibraryProfiler           :         Application : 0
+17:26:45 INFO  LibraryProfiler           :         AsyncTask : 1
+17:26:45 INFO  LibraryProfiler           :         BroadcastReceiver : 3
+17:26:45 INFO  LibraryProfiler           :         ContentProvider : 1
+17:26:45 INFO  LibraryProfiler           :         Fragment : 3
+17:26:45 INFO  LibraryProfiler           :         Handler : 10
+17:26:45 INFO  LibraryProfiler           :         LayoutContainer : 32
+17:26:45 INFO  LibraryProfiler           :         Plain : 1255
+17:26:45 INFO  LibraryProfiler           :         Service : 4
+17:26:45 INFO  LibraryProfiler           :         Thread : 10
+17:26:45 INFO  LibraryProfiler           :         View : 25
+17:26:45 INFO  LibraryProfiler           :     # methods: 8138
+17:26:45 INFO  LibraryProfiler           :         # of publicly accessible methods: 5656
+17:26:45 INFO  LibraryProfiler           :         # of non-accessible methods: 2482
+17:26:45 INFO  LibraryProfiler           : 
+17:26:45 INFO  Profile                   : = PackageTree =
+17:26:45 INFO  PackageTree               : Root Package:  - none -
+17:26:45 INFO  PackageTree               : └── Root
+17:26:45 INFO  PackageTree               :     ├── android
+17:26:45 INFO  PackageTree               :     │   └── support
+17:26:45 INFO  PackageTree               :     │       ├── v7
+17:26:45 INFO  PackageTree               :     │       │   ├── widget (153)
+17:26:45 INFO  PackageTree               :     │       │   ├── view (14)
+17:26:45 INFO  PackageTree               :     │       │   │   └── menu (34)
+17:26:45 INFO  PackageTree               :     │       │   ├── app (60)
+17:26:45 INFO  PackageTree               :     │       │   ├── a (12)
+17:26:45 INFO  PackageTree               :     │       │   ├── b
+17:26:45 INFO  PackageTree               :     │       │   │   └── a (1)
+17:26:45 INFO  PackageTree               :     │       │   └── c (1)
+17:26:45 INFO  PackageTree               :     │       ├── v4
+17:26:45 INFO  PackageTree               :     │       │   ├── widget (92)
+17:26:45 INFO  PackageTree               :     │       │   ├── app (205)
+17:26:45 INFO  PackageTree               :     │       │   ├── view (149)
+17:26:45 INFO  PackageTree               :     │       │   │   ├── a (35)
+17:26:45 INFO  PackageTree               :     │       │   │   └── b (2)
+17:26:45 INFO  PackageTree               :     │       │   ├── content (14)
+17:26:45 INFO  PackageTree               :     │       │   ├── c (10)
+17:26:45 INFO  PackageTree               :     │       │   ├── a (1)
+17:26:45 INFO  PackageTree               :     │       │   │   └── a (22)
+17:26:45 INFO  PackageTree               :     │       │   ├── d (16)
+17:26:45 INFO  PackageTree               :     │       │   ├── media (35)
+17:26:45 INFO  PackageTree               :     │       │   │   └── session (16)
+17:26:45 INFO  PackageTree               :     │       │   ├── os (11)
+17:26:45 INFO  PackageTree               :     │       │   └── b
+17:26:45 INFO  PackageTree               :     │       │       └── a (3)
+17:26:45 INFO  PackageTree               :     │       └── a
+17:26:45 INFO  PackageTree               :     │           └── a (18)
+17:26:45 INFO  PackageTree               :     ├── com
+17:26:45 INFO  PackageTree               :     │   ├── d
+17:26:45 INFO  PackageTree               :     │   │   ├── a (43)
+17:26:45 INFO  PackageTree               :     │   │   ├── b (3)
+17:26:45 INFO  PackageTree               :     │   │   └── c
+17:26:45 INFO  PackageTree               :     │   │       └── a (1)
+17:26:45 INFO  PackageTree               :     │   ├── b
+17:26:45 INFO  PackageTree               :     │   │   └── a (19)
+17:26:45 INFO  PackageTree               :     │   │       ├── c (21)
+17:26:45 INFO  PackageTree               :     │   │       │   └── a (6)
+17:26:45 INFO  PackageTree               :     │   │       │       └── a (2)
+17:26:45 INFO  PackageTree               :     │   │       │           └── a (19)
+17:26:45 INFO  PackageTree               :     │   │       ├── e (2)
+17:26:45 INFO  PackageTree               :     │   │       │   ├── c (6)
+17:26:45 INFO  PackageTree               :     │   │       │   ├── a (19)
+17:26:45 INFO  PackageTree               :     │   │       │   └── b (8)
+17:26:45 INFO  PackageTree               :     │   │       ├── a (15)
+17:26:45 INFO  PackageTree               :     │   │       │   ├── b (5)
+17:26:45 INFO  PackageTree               :     │   │       │   └── a (1)
+17:26:45 INFO  PackageTree               :     │   │       ├── b (1)
+17:26:45 INFO  PackageTree               :     │   │       │   ├── a (7)
+17:26:45 INFO  PackageTree               :     │   │       │   └── b (3)
+17:26:45 INFO  PackageTree               :     │   │       └── d (1)
+17:26:45 INFO  PackageTree               :     │   │           ├── b (1)
+17:26:45 INFO  PackageTree               :     │   │           └── a (3)
+17:26:45 INFO  PackageTree               :     │   ├── c
+17:26:45 INFO  PackageTree               :     │   │   └── a
+17:26:45 INFO  PackageTree               :     │   │       └── a (47)
+17:26:45 INFO  PackageTree               :     │   │           └── a (6)
+17:26:45 INFO  PackageTree               :     │   ├── ericssonlabs (3)
+17:26:45 INFO  PackageTree               :     │   ├── iapp
+17:26:45 INFO  PackageTree               :     │   │   ├── UITool (18)
+17:26:45 INFO  PackageTree               :     │   │   │   └── Gifimage (7)
+17:26:45 INFO  PackageTree               :     │   │   └── app (42)
+17:26:45 INFO  PackageTree               :     │   │       └── run (2)
+17:26:45 INFO  PackageTree               :     │   ├── zxing
+17:26:45 INFO  PackageTree               :     │   │   ├── view (2)
+17:26:45 INFO  PackageTree               :     │   │   ├── a (6)
+17:26:45 INFO  PackageTree               :     │   │   ├── b (8)
+17:26:45 INFO  PackageTree               :     │   │   ├── activity (3)
+17:26:45 INFO  PackageTree               :     │   │   └── c (1)
+17:26:45 INFO  PackageTree               :     │   ├── a
+17:26:45 INFO  PackageTree               :     │   │   └── a (1)
+17:26:45 INFO  PackageTree               :     │   └── e
+17:26:45 INFO  PackageTree               :     │       └── a (2)
+17:26:45 INFO  PackageTree               :     ├── net
+17:26:45 INFO  PackageTree               :     │   └── youmi
+17:26:45 INFO  PackageTree               :     │       └── android (6)
+17:26:45 INFO  PackageTree               :     │           ├── normal
+17:26:45 INFO  PackageTree               :     │           │   ├── c (3)
+17:26:45 INFO  PackageTree               :     │           │   ├── b (2)
+17:26:45 INFO  PackageTree               :     │           │   ├── a
+17:26:45 INFO  PackageTree               :     │           │   │   ├── b (2)
+17:26:45 INFO  PackageTree               :     │           │   │   └── a (1)
+17:26:45 INFO  PackageTree               :     │           │   └── video (3)
+17:26:45 INFO  PackageTree               :     │           ├── c (4)
+17:26:45 INFO  PackageTree               :     │           ├── b (10)
+17:26:45 INFO  PackageTree               :     │           ├── a
+17:26:45 INFO  PackageTree               :     │           │   ├── d (5)
+17:26:45 INFO  PackageTree               :     │           │   ├── b (2)
+17:26:45 INFO  PackageTree               :     │           │   ├── a (4)
+17:26:45 INFO  PackageTree               :     │           │   └── c (1)
+17:26:45 INFO  PackageTree               :     │           ├── g (3)
+17:26:45 INFO  PackageTree               :     │           ├── e (7)
+17:26:45 INFO  PackageTree               :     │           ├── d (2)
+17:26:45 INFO  PackageTree               :     │           ├── h (13)
+17:26:45 INFO  PackageTree               :     │           └── f (3)
+17:26:45 INFO  PackageTree               :     └── a
+17:26:45 INFO  PackageTree               :         ├── a (38)
+17:26:45 INFO  PackageTree               :         └── b (11)
+17:26:45 INFO  Profile                   : 
+17:26:45 INFO  AppProfile                : - generated app package tree (in 10 ms)
+17:26:45 INFO  AppProfile                : 
+17:26:45 DEBUG HashTree                  : Generate library hash tree..
+17:26:45 INFO  HashTree                  : [Config]filterDups? false | accessFlagsFilter? [0]  | filterInnerClasses: false | hash-algo: MD5 | verboseness: NORMAL
+17:26:45 DEBUG HashTree                  :     - generated 8138 method hashes.
+17:26:45 DEBUG HashTree                  :     - generated 1310 clazz hashes.
+17:26:45 DEBUG HashTree                  :     - generated 76 package hashes.
+17:26:45 DEBUG HashTree                  :     => Library Hash: 2755308a3a1adfe03954fdf48aa47690
+17:26:45 INFO  AppProfile                : - generated app hash trees (in 151 ms)
+17:26:45 INFO  AppProfile                : 
+17:26:45 INFO  LibraryIdentifier         : = Scan for library root packages (heuristic) =
+17:26:45 INFO  LibraryIdentifier         : 
+17:26:45 INFO  LibraryIdentifier         : = Match profiles =
+17:26:45 INFO  LibraryIdentifier         :     >> profile matching done (20 ms)
+17:26:45 INFO  LibraryIdentifier         : 
+17:26:45 INFO  LibraryIdentifier         : == Report ==
+17:26:45 INFO  LibraryIdentifier         : - Full library matches:
+17:26:45 INFO  LibraryIdentifier         : 
+17:26:45 INFO  LibraryIdentifier         : - Partial library matches:
+17:26:45 INFO  LibraryIdentifier         : 
+17:26:45 INFO  LibraryIdentifier         : Serialize app stats to disk (dir: .\stats)
+17:26:45 INFO  LibraryIdentifier         : App processing time: 591 ms
